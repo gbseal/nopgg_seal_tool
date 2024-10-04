@@ -12,7 +12,7 @@ uses
 
 
 type
-  TAnsiCharEx16 = array [0..16] of AnsiChar ;
+  TAnsiCharEx16 = array [0..16] of AnsiChar;
 
 
 type
